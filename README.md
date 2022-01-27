@@ -1,0 +1,2 @@
+# lib-opensearch
+open search
